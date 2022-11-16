@@ -119,7 +119,7 @@
     {
       "name": "Tools",
       "level": "Master",
-      "keywords": ["Windows Terminal", "Windows Powershell", "npm","Git","Github"]
+      "keywords": ["Windows Terminal", "Powershell", "npm","Git","Github"]
     }
   ],
   "languages": [
