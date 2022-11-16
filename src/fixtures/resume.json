@@ -1,0 +1,233 @@
+{
+  "basic": {
+    "name": "Luis Felipe López Umaña",
+    "label": "Software Developer | Full-Stack Developer",
+    "image": "",
+    "email": "lufellop@gmail.com",
+    "phone": "(+506) 6050-3884",
+    "summary": [""],
+    "location": {
+      "address": "Costa Rica",
+      "city": "SJ"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "url": "https://describeme.net/saul_jaramillo",
+        "username": "saul_jaramillo"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/lfelipeu",
+        "username": "lfelipeu"
+        
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Banprocesos Outsourcing Services",
+      "location": "Full Remote",
+      "position": "Full-Stack Developer",
+      "url": "https://www.banprocesos.com/",
+      "startDate": "09/2022",
+      "endDate": "12/2022",
+      "summary": "I did my internship in this company as a Full-Stack Developer. Programming a work agenda in the intranet for the employees of the company, facilitating the organization and understanding of the work they have to do every day.",
+      "highlights": [
+        "Developed Equipment Inventory Management System (ASP.NET, C#, SQL)",
+        "Developed SQL scripts to Insert, Update, Delete and Merge data in the database tables along with SQL joins and cursors."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Liceo de Moravia.",
+      "area": "Ninth Grade",
+      "studyType": "",
+      "startDate": "02/2017",
+      "endDate": "11/2019",
+      "gpa": "3.2",
+      "courses": []
+    },
+    {
+      "institution": "Calle Blancos Vocational High School.",
+      "area": "Baccalaureate in Secondary Education",
+      "studyType": "",
+      "startDate": "02/2020",
+      "endDate": "12/2022",
+      "gpa": "3.3"
+    },
+    {
+      "institution": "Calle Blancos Vocational High School.",
+      "area": "Software Development in Medium Technician",
+      "studyType": "",
+      "startDate": "02/2020",
+      "endDate": "12/2022"
+    },
+    {
+      "institution": "National Technical University.",
+      "area": "Libre Office",
+      "studyType": "Certification",
+      "startDate": "2020",
+      "endDate": ""          
+    },
+    {
+      "institution": "Cisco Networking Academy.",
+      "area": "IT Essentials.",
+      "studyType": "Certification",
+      "startDate": "2021",
+      "endDate": ""          
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Computer Maintenance",
+      "position": "PC Support Specialist",
+      "url": "",
+      "startDate": "02/2019",
+      "endDate": "Present",
+      "summary": "I provide assistance to clients that I have done over time, frequently perform maintenance on their equipment and computer systems and repair any faults in the equipment."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": ["C#", "Java", "Python"]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": ["MySQL", "SQL Server"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["CSS", "HTML", "JavaScript"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": ["React", "Node.js", "ASP.NET"]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Master",
+      "keywords": ["Word", "Excel", "PowerPoint"]
+    },
+    {
+      "name": "Cryptocurrency",
+      "level": "Master",
+      "keywords": ["NFTs", "Mining", "Trading", "Blockchain"]
+
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": ["Windows Terminal", "Windows Powershell", "npm","Git","Github"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish (C2)",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English (B2)",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Saul Jaramillo (Professional)",
+      "reference": "Cloud & DevOps Architect"
+    },
+    {
+        "name": "Marco Quiros (Professional)",
+        "reference": "Call Center Team Leader"
+    },
+    {
+      "name": "Daniel Ramírez (Technician)",
+      "reference": "Programmer"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Automated Teller Machine",
+      "description": "This is a project that consisted of creating a simulation of an ATM that reads an amount indicated by the user, and the ATM delivered the minimum amount of bills.",
+      "highlights": [],
+      "keywords": ["Python","Python IDLE"],
+      "startDate": "10/2020",
+      "endDate": "11/2020",
+      "roles": ["Back-end Developer"],
+      "entity": "Automated Teller Machine",
+      "type": ""
+    },
+    {
+        "name": "Supreme Store",
+        "description": "In this project I created a virtual store of a clothing brand called Supreme, where the page contained in the Index a browser bar, through it, you can go to sections of the store, as well as, description of the brand, materials that were used for the creation of clothing and where the physical stores were located, the gallery with various articles of the brand, another with references, address and contacts, and finally, the multimedia, which contained videos of the brand and various exclusive items.",
+        "highlights": [],
+        "keywords": ["HTML","CSS","Visual Studio Code"],
+        "startDate": "10/2020",
+        "endDate": "11/2020",
+        "roles": ["Front-end Developer"],
+        "entity": "Supreme Store",
+        "type": ""
+      },
+      {
+        "name": "Bank Project",
+        "description": "The project consists of carrying out the maintenance of clients, client accounts and the movements that are going to be carried out in each of the aforementioned accounts (Accounts of each client), organizing and structured in packages, where each package contains each of the methods, classes, procedures and functions that are going to be used (For the Back-end part) and on the other hand (Front-end) is the main menu that is directed by a browser bar or direct accesses, where you can enter each of the sections (Clients, Accounts, Movements, Users and Reports) to perform the desired functions by the user. In the section called Reports managed by JTables, you can choose which report the user wants to make (Report all accounts, Report the accounts of a specific client, Report the movements of a specific account, Report the log movements that a user has made to throughout a login, etc), and finally, the section of the project called Users (where only Administrators can register such users and fully perform system functions), which are the employees of the bank, rather the that can manipulate the program (Registering clients, registering accounts, modifying client information, making a movement, etc), and each user contains a condition (If it is active or deactivated) and a User Code (Through this code, the functions that the user can perform within the system are defined).",
+        "highlights": [],
+        "keywords": ["Java","MySQL","NetBeans"],
+        "startDate": "03/2022",
+        "endDate": "05/2022",
+        "roles": ["Software Developer"],
+        "entity": "Bank Project",
+        "type": ""
+      },
+      {
+        "name": "Control of Credit Sales in a Supermarket",
+        "description": "The project consists of carrying out the maintenance of clients, client accounts, the movements that are going to be carried out in each of the mentioned accounts (Accounts of each client) and details of the purchases (By the number of movement and by the number of the registered account), organized and structured in folders, where each folder contains each of the methods, classes, procedures and functions that are going to be used (For the Back-end part) and on the other hand (Front-end) there is the main menu that is directed by a navigation bar or shortcuts, where you can enter each of the sections (Clients, Accounts, Movements, Purchase Details, Users and Reports) to perform the functions desired by the user. In the section called Reports managed by DataGridView, you can choose which report the user wants to perform (Report all accounts, Report the accounts of a specific client, Report the movements of a specific account, Report the registration movements that a user has made to throughout a login, Report the movements of an account between two dates, etc), and finally, the section of the project called Users (Where only the Supermarket Administrators can register said users and perform all the functions of the system), which are the supermarket employees, who can manipulate the program (customer registration, account registration, modify customer information, perform a movement, etc), and each user contains a condition (if it is active or deactivated) and a User Code (Through this code the functions that the user can perform within the system are defined).",
+        "highlights": [],
+        "keywords": ["C#","SQL Server","Visual Studio 2012"],
+        "startDate": "07/2022",
+        "endDate": "09/2022",
+        "roles": ["Software Developer"],
+        "entity": "Control of Credit Sales in a Supermarket",
+        "type": ""
+      },
+      {
+        "name": "Sales Control of a Pharmacy",
+        "description": "The project consists of performing the maintenance of clients, client accounts, the movements that are going to be carried out in each of the aforementioned accounts (Accounts of each client) and details of purchases in the pharmacy (By movement number and by number of the registered account), organized and structured in folders, where each folder contains each of the methods, classes, procedures and functions that are going to be used (On the Back-end part) and on the other hand (Front-end) is the main menu that is directed by a navigation bar or shortcuts, where you can enter each of the sections (Clients, Accounts, Movements, Purchase Details, Users and Reports) to perform the functions desired by the user Aryan. In the section called Reports managed by DataGridView, you can choose which report the user wants to perform (Report all accounts, Report the accounts of a specific client, Report the movements of a specific account, Report the register movements that a user has made to a through a login, Report the movements of an account between two dates, etc), and finally, the section of the project called Users (where only Supermarket Administrators can register said users and carry out all the functions of the system), which are the supermarket employees, who can manipulate the program (customer registration, account registration, modify customer information, make a movement, etc), and each user contains a condition (if it is activated or deactivated) and a Code of User (Through this code the functions that the user can perform within the system are defined).",
+        "highlights": [],
+        "keywords": ["C#","HTML","ASP.NET","Visual Studio 2012"],
+        "startDate": "09/2022",
+        "endDate": "10/2022",
+        "roles": ["Full-Stack Developer"],
+        "entity": "Sales Control of a Pharmacy",
+        "type": ""
+      },
+      {
+        "name": "Personal Curriculum Vitae",
+        "description": "In this project I made my personal resume in the form of a web page, hosted with AWS. I made it to demonstrate my skills using React and JavaScript, I also did it since it seems to me a very agile and efficient way to do it, since each change that I want to make or each element that I want to add will be done in real time, so my resume will always be kept up-to-date for recruiters or people who want to see it, plus it has a very organized and very informative structure for visitors.",
+        "highlights": [],
+        "keywords": ["CSS","React","JavaScript","Visual Studio Code"],
+        "startDate": "10/2022",
+        "endDate": "11/2022",
+        "roles": ["Full-Stack Developer"],
+        "entity": "Personal Curriculum Vitae",
+        "type": ""
+      },
+      {
+        "name": "Work Calendar",
+        "description": "In this project I made an internal agenda for the employees of a company, where it firstly has the task registration section, in this part the employee registers with his proper name, selects the date and time of the activity, it also has a option in case the head of the company is the one who registers the task, can delegate or inherit the task to an employee, and the description of the task (that is, the activity to be carried out). On the other hand, it has a section that allows you to modify the status of the task (Selecting it with the name of the employee who registered it and with the current status of the task, if it is valid, completed or expired) then the tasks will come out through a DataGridView with the conditions indicated above, and entering the number of the task and the new status of the task, it will be changed correctly and will be reflected immediately, in the case if the employee wish see the taskings again. Finally, there is the section where you can see only the tasks that each employee has, putting the name of the employee, entering the date and time periods in which you want to view the tasks, and they will be reflected in a DataGridView according to the data previously placed.",
+        "highlights": [],
+        "keywords": ["C#","ASP.NET","SQL Server","Visual Studio 2017"],
+        "startDate": "10/2022",
+        "endDate": "12/2022",
+        "roles": ["Full-Stack Developer"],
+        "entity": "Work Calendar",
+        "type": ""
+      }
+  ]
+}
