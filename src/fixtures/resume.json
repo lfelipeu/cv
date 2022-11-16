@@ -12,11 +12,6 @@
     },
     "profiles": [
       {
-        "network": "Linkedin",
-        "url": "https://describeme.net/saul_jaramillo",
-        "username": "saul_jaramillo"
-      },
-      {
         "network": "Github",
         "url": "https://github.com/lfelipeu",
         "username": "lfelipeu"
