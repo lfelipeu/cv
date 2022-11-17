@@ -160,7 +160,7 @@
     },
     {
         "name": "Supreme Store",
-        "description": "This project consists of a virtual store about a clothing brand. Where it contains sections for both the company's information and to show their products in a creative way.",
+        "description": "Programming of a virtual store about a clothing brand. Where it contains sections for both the company's information and to show their products in a creative way.",
         "highlights": [],
         "keywords": ["HTML","CSS","Visual Studio Code"],
         "startDate": "10/2020",
@@ -171,7 +171,7 @@
       },
       {
         "name": "Bank Project",
-        "description": "This project consists of an application for a bank, where you can take a better organization of customers, users, the movements that customers have in terms of their money, and various reports that can make a person to see the information you want.",
+        "description": "Programming of an application for a bank, where you can take a better organization of customers, users, the movements that customers have in terms of their money, and various reports that can make a person to see the information you want.",
         "highlights": [],
         "keywords": ["Java","MySQL","NetBeans"],
         "startDate": "03/2022",
@@ -182,7 +182,7 @@
       },
       {
         "name": "Control of Credit Sales in a Supermarket",
-        "description": "This project consists of an application for the control of credit sales in a supermarket. With the purpose of carrying a better organization of customer information, users, the movements that a person has with his money in the supermarket, the details of the purchases made and various reports that a person can make to see the information you want.",
+        "description": "Programming of an application for the control of credit sales in a supermarket. With the purpose of carrying a better organization of customer information, users, the movements that a person has with his money in the supermarket, the details of the purchases made and various reports that a person can make to see the information you want.",
         "highlights": [],
         "keywords": ["C#","SQL Server","Visual Studio 2012"],
         "startDate": "07/2022",
@@ -193,7 +193,7 @@
       },
       {
         "name": "Sales Control of a Pharmacy",
-        "description": "This project consists of an application for the control of a pharmacy. With the purpose of carrying out a better organization of customer information, users, the movements that a person has with his money in the pharmacy, the details of the purchases made of medicines and other products, and ending with multiple reporting options that can make a person to see the information you have in the pharmacy on the actions you have done.",
+        "description": "Programming of a web page to control information in a pharmacy. With the purpose of carrying out a better organization of customer information, users, the movements that a person has with his money in the pharmacy, the details of the purchases made of medicines and other products, and ending with multiple reporting options that can make a person to see the information you have in the pharmacy on the actions you have done.",
         "highlights": [],
         "keywords": ["C#","HTML","ASP.NET","Visual Studio 2012"],
         "startDate": "09/2022",
@@ -204,7 +204,7 @@
       },
       {
         "name": "Personal Curriculum Vitae",
-        "description": "In this project I made my personal resume in the form of a web page, hosted with Netlify. I did it to demonstrate my skills using React and JavaScript, I also did it since I find it a very agile and efficient way to do it, since every change I want to make or every element I want to add will be done In real time, so my resume will always be kept updated for recruiters or people who want to see it, it also has a very organized and very informative structure for visitors.",
+        "description": "Project where I made my personal resume in the form of a web page, hosted with Netlify. I did it since it seems to me a very agile and efficient way to do it, since every change I want to make or every element I want to add will be done in real time, so my resume will always be kept updated for recruiters or people who want to see it, it also has a very organized and very informative structure for visitors.",
         "highlights": [],
         "keywords": ["CSS","React","JavaScript","Visual Studio Code"],
         "startDate": "10/2022",
