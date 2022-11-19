@@ -16,6 +16,12 @@
         "url": "https://github.com/lfelipeu",
         "username": "lfelipeu"
         
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/lfelipeu/",
+        "username": "lfelipeu"
+        
       }
     ]
   },
@@ -35,15 +41,6 @@
     }
   ],
   "education": [
-    {
-      "institution": "Liceo de Moravia.",
-      "area": "Ninth Grade",
-      "studyType": "",
-      "startDate": "02/2017",
-      "endDate": "11/2019",
-      "gpa": "3.2",
-      "courses": []
-    },
     {
       "institution": "Calle Blancos Vocational High School.",
       "area": "Baccalaureate in Secondary Education",
