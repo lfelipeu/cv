@@ -69,6 +69,13 @@
       "studyType": "Certification",
       "startDate": "2021",
       "endDate": ""          
+    },
+    {
+      "institution": "freeCodeCamp.",
+      "area": "Responsive Web Design",
+      "studyType": "Certification",
+      "startDate": "2021",
+      "endDate": ""          
     }
   ],
   "volunteer": [
@@ -106,12 +113,6 @@
       "name": "Microsoft Office",
       "level": "Master",
       "keywords": ["Word", "Excel", "PowerPoint"]
-    },
-    {
-      "name": "Cryptocurrency",
-      "level": "Master",
-      "keywords": ["NFTs", "Mining", "Trading", "Blockchain"]
-
     },
     {
       "name": "Tools",
