@@ -19,7 +19,6 @@ export default class NavMenu extends React.Component {
     }
     render() {
         return (
-            <header>
             <Navbar className="navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3" light >
             <Container>
             <NavbarBrand tag={Link} to="/"></NavbarBrand>
@@ -31,7 +30,6 @@ export default class NavMenu extends React.Component {
             </Collapse>
             </Container>
             </Navbar>
-            </header>
     );
 }
 }
