@@ -1,7 +1,7 @@
 {
   "basic": {
     "name": "Felipe López Umaña",
-    "label": "Software Developer | Full-Stack Developer",
+    "label": "Software Developer | Full Stack Developer",
     "image": "",
     "email": "lufellop@gmail.com",
     "summary": [""],
@@ -28,11 +28,11 @@
     {
       "name": "Banprocesos Outsourcing Services",
       "location": "Full Remote",
-      "position": "Full-Stack Developer",
+      "position": "Full Stack Developer",
       "url": "https://www.banprocesos.com/",
       "startDate": "10/2022",
       "endDate": "12/2022",
-      "summary": "I did my professional practice in this company. Programming a work agenda in the intranet for the employees of the company, facilitating the organization and understanding of the work they have to do every day.",
+      "summary": "I did my internship practice in this company. Programming a work agenda in the intranet for the employees of the company, facilitating the organization and understanding of the work they have to do every day.",
       "highlights": [
         "Developed Equipment Inventory Management System (ASP.NET, C#, SQL Server)",
         "Developed SQL scripts to Insert, Update, Delete and Merge data in the database tables along with SQL joins and cursors."
@@ -202,7 +202,7 @@
         "keywords": ["C#","HTML","ASP.NET","SQL Server","Visual Studio 2012"],
         "startDate": "09/2022",
         "endDate": "10/2022",
-        "roles": ["Full-Stack Developer"],
+        "roles": ["Full Stack Developer"],
         "entity": "Sales Control of a Pharmacy",
         "type": ""
       },
@@ -213,7 +213,7 @@
         "keywords": ["HTML","CSS","React","JavaScript","Visual Studio Code"],
         "startDate": "10/2022",
         "endDate": "11/2022",
-        "roles": ["Full-Stack Developer"],
+        "roles": ["Full Stack Developer"],
         "entity": "Personal Curriculum Vitae",
         "type": ""
       },
@@ -224,7 +224,7 @@
         "keywords": ["C#","ASP.NET","HTML","SQL Server","Visual Studio 2017"],
         "startDate": "10/2022",
         "endDate": "12/2022",
-        "roles": ["Full-Stack Developer"],
+        "roles": ["Full Stack Developer"],
         "entity": "Work Calendar",
         "type": ""
       }
