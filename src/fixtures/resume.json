@@ -117,7 +117,7 @@
     {
       "name": "Database",
       "level": "Master",
-      "keywords": ["MySQL", "SQL Server", "NoSQL", "MongoDB"]
+      "keywords": ["MySQL", "SQL Server", "NoSQL", "MongoDB", "PostgreSQL"]
     },
     {
       "name": "Web Development",
