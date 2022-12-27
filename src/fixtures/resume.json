@@ -34,7 +34,7 @@
       "endDate": "12/2022",
       "summary": "I did my internship practice in this company. Programming a work agenda in the intranet for the employees of the company, facilitating the organization and understanding of the work they have to do every day.",
       "highlights": [
-        "Developed Equipment Inventory Management System (ASP.NET, C#, SQL Server)",
+        "Developed Equipment Inventory Management System (C#, Typescript, HTML, CSS, ASP.NET and SQL)",
         "Developed SQL scripts to Insert, Update, Delete and Merge data in the database tables along with SQL joins and cursors."
       ]
     }
